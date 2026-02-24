@@ -1,0 +1,201 @@
+Annual_Sales_£m,Profit_Margin_%,Age,Income_£k,Gender,Region
+16.49,55.09,49,197.57,Female,Wales
+14.59,49.63,57,131.28,Non‑binary,Wales
+16.94,47.88,62,160.18,Male,South East
+19.57,48.1,30,150.89,Male,Midlands
+14.3,34.38,56,247.76,Female,South East
+14.3,31.74,45,179.19,Male,Wales
+19.74,52.37,40,135.52,Male,Scotland
+17.3,52.4,45,106.56,Male,London
+13.59,54.68,35,83.77,Female,London
+16.63,56.53,61,147.12,Female,Scotland
+13.61,40.45,60,113.53,Male,Wales
+13.6,40.06,59,90.22,Male,Northern Ireland
+15.73,51.93,43,117.37,Male,London
+9.26,46.0,44,102.15,Female,Northern Ireland
+9.83,48.08,42,199.05,Male,London
+13.31,51.83,38,170.86,Male,London
+11.96,55.6,39,139.72,Female,Midlands
+15.94,33.52,55,191.8,Male,Midlands
+12.28,35.02,25,142.71,Female,North West
+10.76,23.76,27,109.86,Male,South East
+19.4,43.13,40,193.31,Male,Scotland
+14.32,21.44,47,158.86,Male,Scotland
+15.2,38.62,35,103.7,Female,Scotland
+10.73,41.71,36,133.34,Female,North West
+13.37,31.46,34,109.35,Female,Midlands
+15.33,43.63,56,91.6,Male,Wales
+11.55,21.22,40,172.42,Female,Northern Ireland
+16.13,21.49,32,206.83,Male,Northern Ireland
+13.2,52.9,62,91.05,Male,Wales
+14.12,34.41,36,159.7,Female,North West
+13.19,25.08,48,117.23,Male,Wales
+20.56,40.89,52,122.95,Male,Scotland
+14.96,50.8,32,119.27,Male,South East
+11.83,28.63,52,109.76,Male,London
+17.47,44.92,60,141.7,Male,Northern Ireland
+11.34,23.41,50,110.92,Female,Midlands
+15.63,22.07,32,149.47,Male,Midlands
+9.12,41.25,52,138.24,Female,North West
+11.02,41.63,52,131.64,Female,Midlands
+15.59,45.5,61,108.24,Male,Scotland
+17.22,49.04,60,119.81,Male,Northern Ireland
+15.51,59.03,51,166.44,Male,Wales
+14.65,40.65,41,157.53,Female,Scotland
+14.1,32.92,33,105.79,Male,North West
+10.56,51.81,57,143.48,Female,Scotland
+12.84,30.83,44,166.3,Male,Wales
+13.62,37.56,37,81.57,Female,South East
+18.17,23.14,52,159.02,Male,North West
+16.03,21.01,53,116.81,Male,South East
+9.71,58.51,37,159.97,Non‑binary,London
+15.97,53.44,59,113.29,Female,South East
+13.84,47.84,30,76.83,Male,London
+12.97,36.36,42,83.04,Female,London
+16.84,26.93,29,141.68,Female,South East
+18.09,26.26,49,149.09,Female,North West
+17.79,30.01,26,108.35,Female,Wales
+12.48,41.97,34,162.35,Male,Scotland
+14.07,48.58,54,81.85,Male,Scotland
+15.99,46.41,29,137.69,Male,Wales
+17.93,31.2,57,97.61,Female,Northern Ireland
+13.56,58.19,25,117.19,Female,Northern Ireland
+14.44,49.52,42,141.66,Male,London
+11.68,42.17,56,109.89,Male,London
+11.41,44.47,35,126.54,Female,North West
+17.44,36.78,45,175.22,Non‑binary,Midlands
+19.07,29.91,50,119.81,Female,South East
+14.78,34.24,49,169.25,Male,London
+18.01,50.31,46,100.46,Male,Scotland
+16.08,20.58,51,158.54,Male,North West
+13.06,24.64,37,190.45,Female,South East
+16.08,21.84,57,53.49,Male,North West
+19.61,21.63,58,112.11,Female,South East
+14.89,54.22,59,160.2,Male,South East
+19.69,48.15,25,132.89,Female,Wales
+7.14,38.97,45,152.99,Female,London
+17.47,23.91,30,118.86,Female,North West
+15.26,39.66,52,143.03,Male,North West
+14.1,38.94,41,134.55,Male,Wales
+15.28,26.93,29,180.87,Male,Scotland
+9.04,37.35,55,148.9,Female,Scotland
+14.34,35.94,29,151.82,Female,Northern Ireland
+16.07,44.63,62,125.58,Female,London
+19.43,45.4,27,122.93,Female,London
+13.45,21.81,47,124.86,Female,Midlands
+12.57,34.98,61,153.81,Male,Wales
+13.49,45.03,61,125.27,Female,Scotland
+17.75,40.13,34,150.14,Male,South East
+15.99,54.26,34,212.64,Male,North West
+13.41,46.35,43,170.49,Female,London
+16.54,26.52,41,128.59,Male,North West
+15.29,22.82,45,182.04,Male,North West
+17.91,45.7,38,125.72,Female,Midlands
+12.89,21.06,33,68.67,Male,Scotland
+14.02,43.43,25,104.72,Female,London
+13.82,57.61,37,74.52,Male,North West
+10.61,43.02,28,127.7,Male,London
+15.89,35.53,25,140.64,Male,South East
+15.78,45.73,64,198.68,Male,Midlands
+15.02,38.33,56,151.44,Female,South East
+14.3,41.82,58,132.33,Male,London
+10.75,57.66,52,169.03,Female,Northern Ireland
+13.74,35.44,55,62.61,Female,London
+13.97,58.45,32,148.25,Female,Scotland
+12.59,56.21,63,166.98,Female,North West
+14.52,27.83,50,88.25,Female,North West
+16.21,22.77,58,180.03,Male,South East
+20.66,24.03,27,151.85,Male,Midlands
+15.52,20.73,36,125.46,Male,Northern Ireland
+15.77,23.78,25,162.15,Female,Wales
+14.78,47.32,29,219.47,Male,North West
+9.24,22.85,54,146.37,Female,Scotland
+14.92,32.76,54,148.69,Female,South East
+15.18,53.8,41,123.92,Male,South East
+22.39,20.93,47,110.26,Female,Wales
+14.42,52.58,39,169.06,Male,Scotland
+15.9,31.27,61,110.04,Male,Midlands
+14.9,24.73,45,142.5,Female,Scotland
+11.49,47.87,38,123.28,Female,Midlands
+18.43,45.16,26,156.76,Female,Scotland
+17.26,55.1,35,151.68,Male,Scotland
+17.37,49.4,63,176.31,Male,London
+12.27,52.14,62,122.15,Female,South East
+19.21,31.28,58,130.55,Female,Scotland
+10.79,27.1,62,105.74,Female,Wales
+16.76,50.02,58,124.45,Male,Scotland
+21.57,52.27,42,153.21,Female,North West
+12.03,59.62,54,166.49,Male,South East
+13.3,36.5,39,107.72,Male,North West
+15.3,34.88,51,170.44,Female,South East
+13.49,51.06,58,187.45,Male,North West
+10.35,33.63,62,154.47,Non‑binary,Scotland
+15.21,57.23,57,205.69,Female,Scotland
+11.81,54.34,48,112.92,Male,London
+16.42,37.16,39,96.44,Female,Wales
+12.24,50.03,54,77.74,Female,North West
+19.65,50.18,41,192.36,Female,Midlands
+12.65,24.12,29,162.9,Female,London
+14.03,56.1,53,138.05,Female,North West
+17.44,40.21,28,149.8,Female,North West
+11.31,53.06,34,100.61,Female,London
+15.68,32.8,41,225.6,Male,Scotland
+18.92,55.82,34,144.52,Female,North West
+10.18,35.57,41,143.83,Male,Scotland
+15.55,20.43,44,165.4,Non‑binary,London
+15.78,56.22,48,156.84,Non‑binary,Scotland
+17.35,23.65,29,147.84,Male,South East
+11.29,32.77,58,112.33,Female,Midlands
+11.04,58.0,30,156.5,Female,Northern Ireland
+16.57,58.02,26,205.87,Male,North West
+15.89,42.94,37,187.09,Female,Wales
+15.75,45.27,35,195.76,Female,Midlands
+16.04,37.94,47,122.11,Male,Northern Ireland
+12.96,31.73,40,105.36,Female,Scotland
+15.7,33.15,55,135.6,Male,North West
+15.88,46.9,35,141.95,Female,Scotland
+12.86,50.09,40,178.3,Non‑binary,South East
+20.6,51.66,32,80.76,Non‑binary,London
+16.42,51.58,28,193.53,Female,North West
+11.43,23.65,64,134.47,Female,Northern Ireland
+16.97,39.78,28,125.06,Female,Northern Ireland
+12.08,22.3,49,104.58,Male,South East
+17.36,41.98,27,82.08,Female,South East
+18.48,37.66,56,168.81,Male,North West
+12.54,55.51,27,142.57,Female,Scotland
+17.89,34.04,51,94.85,Male,Wales
+16.24,24.68,53,94.67,Male,Northern Ireland
+17.47,25.72,56,128.25,Male,Northern Ireland
+20.69,50.46,43,198.42,Female,South East
+14.26,44.73,45,130.91,Male,Midlands
+12.74,24.04,29,87.39,Female,South East
+12.33,23.36,42,131.4,Male,Wales
+12.55,48.04,52,130.45,Male,Scotland
+14.77,22.91,46,45.61,Female,Scotland
+16.02,52.87,45,138.1,Female,Midlands
+15.83,48.25,30,131.92,Male,Northern Ireland
+17.48,23.25,25,164.37,Female,South East
+15.04,23.39,29,204.71,Female,Scotland
+19.36,59.47,36,179.43,Female,Wales
+14.21,34.97,50,130.59,Male,North West
+23.16,34.83,58,101.27,Male,London
+16.88,52.51,38,230.07,Female,London
+12.43,57.89,50,142.07,Male,London
+11.79,59.44,51,140.49,Female,Northern Ireland
+16.45,50.14,33,139.16,Female,South East
+14.33,35.05,50,146.93,Female,Midlands
+17.14,23.34,46,134.95,Female,Scotland
+16.42,51.09,54,119.92,Non‑binary,North West
+14.78,42.34,41,120.86,Male,Wales
+12.46,36.97,50,138.85,Female,North West
+10.46,56.25,60,120.98,Male,Wales
+13.66,24.45,25,115.05,Female,Northern Ireland
+17.57,39.71,32,143.73,Female,South East
+15.64,20.45,59,131.08,Female,London
+11.26,38.75,39,192.64,Non‑binary,South East
+15.52,22.25,46,47.22,Female,Northern Ireland
+16.16,24.75,38,178.2,Male,Midlands
+12.35,24.7,50,183.61,Male,Midlands
+15.46,45.97,52,67.43,Female,Northern Ireland
+15.17,49.84,47,128.01,Male,Wales
+11.57,43.33,38,127.0,Male,Scotland
