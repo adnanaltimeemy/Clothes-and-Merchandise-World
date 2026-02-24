@@ -1,0 +1,501 @@
+Customer_ID,Age_Group,Income_Level,Region,Avg_Annual_Spend_EUR,Spend_Cluster,Spend_Cluster_Label
+1,36-50,Upper Middle,Asia,3390.9422020531583,2,High Spend
+2,50+,High,North America,800.0,1,Mid Spend
+3,18-25,Affluent,North America,3836.435272213119,2,High Spend
+4,36-50,High,Asia,4343.288639624411,2,High Spend
+5,36-50,Upper Middle,Asia,4231.538985448287,2,High Spend
+6,50+,High,Asia,5377.717596220168,0,Low Spend
+7,18-25,Affluent,Middle East,4834.628740007589,2,High Spend
+8,18-25,High,North America,4010.196174302561,2,High Spend
+9,36-50,High,Middle East,2845.6354347909764,2,High Spend
+10,26-35,Upper Middle,Middle East,800.0,1,Mid Spend
+11,36-50,High,Asia,3945.1600820916888,2,High Spend
+12,36-50,Affluent,Asia,3456.9129117588445,2,High Spend
+13,36-50,Upper Middle,Europe,3597.4734418298217,2,High Spend
+14,36-50,High,Europe,800.0,1,Mid Spend
+15,50+,Affluent,Middle East,800.0,1,Mid Spend
+16,18-25,Affluent,North America,5316.936277332387,0,Low Spend
+17,50+,High,Asia,2912.978661515359,2,High Spend
+18,50+,Affluent,Asia,4499.301534219774,2,High Spend
+19,50+,High,Middle East,3062.3004274870104,2,High Spend
+20,36-50,Upper Middle,Europe,3065.463506890635,2,High Spend
+21,26-35,Affluent,North America,5064.224373147195,0,Low Spend
+22,18-25,Affluent,Europe,1864.7015979217774,1,Mid Spend
+23,26-35,Affluent,Europe,3211.4657092701636,2,High Spend
+24,50+,Affluent,Europe,1982.994364848906,1,Mid Spend
+25,50+,High,Europe,2044.1082996489058,1,Mid Spend
+26,26-35,High,Asia,2319.8213283689934,1,Mid Spend
+27,26-35,Affluent,Asia,3488.694297594168,2,High Spend
+28,26-35,High,Europe,1946.7530323403505,1,Mid Spend
+29,50+,Affluent,North America,5762.663476261746,0,Low Spend
+30,50+,Affluent,Middle East,1031.8639351170914,1,Mid Spend
+31,18-25,Affluent,North America,2588.88238284501,2,High Spend
+32,18-25,High,North America,2032.5916717968153,1,Mid Spend
+33,50+,High,North America,6183.351345578212,0,Low Spend
+34,26-35,Upper Middle,Europe,3432.420508325464,2,High Spend
+35,26-35,High,Asia,5270.057986830997,0,Low Spend
+36,18-25,Upper Middle,North America,800.0,1,Mid Spend
+37,50+,High,Europe,3587.5105849123693,2,High Spend
+38,18-25,High,North America,4957.187750371561,0,Low Spend
+39,18-25,Upper Middle,North America,3181.024776405933,2,High Spend
+40,36-50,High,Europe,5344.056825143773,0,Low Spend
+41,36-50,Upper Middle,Asia,1861.9654097791813,1,Mid Spend
+42,36-50,Upper Middle,Asia,6100.564368408276,0,Low Spend
+43,26-35,Affluent,Middle East,8057.575871962351,0,Low Spend
+44,50+,High,Europe,2201.7551670327503,1,Mid Spend
+45,50+,Upper Middle,Middle East,2019.894452918302,1,Mid Spend
+46,50+,High,Middle East,6197.445849658942,0,Low Spend
+47,50+,Affluent,Middle East,6475.058720607567,0,Low Spend
+48,36-50,Upper Middle,Asia,1849.7079402628099,1,Mid Spend
+49,26-35,High,Europe,2075.5890023891134,1,Mid Spend
+50,26-35,Upper Middle,Middle East,2380.0738605068836,1,Mid Spend
+51,36-50,Upper Middle,Europe,800.0,1,Mid Spend
+52,26-35,High,Europe,978.9657177347639,1,Mid Spend
+53,36-50,High,Asia,800.0,1,Mid Spend
+54,50+,High,Middle East,1310.8453567709175,1,Mid Spend
+55,36-50,Affluent,Middle East,2923.6932477490814,2,High Spend
+56,50+,Affluent,Europe,3515.2724115803444,2,High Spend
+57,50+,High,North America,6411.101084190969,0,Low Spend
+58,18-25,High,Asia,803.6211103746599,1,Mid Spend
+59,36-50,Affluent,Asia,5165.509276648484,0,Low Spend
+60,18-25,Upper Middle,Asia,2529.22454270388,2,High Spend
+61,36-50,High,Asia,2891.1798387646477,2,High Spend
+62,36-50,Upper Middle,Middle East,4484.602882766528,2,High Spend
+63,18-25,Upper Middle,Middle East,800.0,1,Mid Spend
+64,18-25,Affluent,North America,3841.3014416049114,2,High Spend
+65,36-50,Affluent,Asia,3366.194858068723,2,High Spend
+66,26-35,High,Asia,4083.3927808179274,2,High Spend
+67,50+,High,Europe,3636.1710165972,2,High Spend
+68,18-25,Upper Middle,Middle East,8401.660307803968,0,Low Spend
+69,50+,Upper Middle,Asia,1596.972034647105,1,Mid Spend
+70,26-35,Upper Middle,North America,1831.8066989960012,1,Mid Spend
+71,26-35,High,North America,1629.0908418655183,1,Mid Spend
+72,26-35,Affluent,Middle East,1777.9503378474396,1,Mid Spend
+73,18-25,High,North America,1597.748319925661,1,Mid Spend
+74,26-35,Upper Middle,North America,5615.836368436614,0,Low Spend
+75,18-25,Affluent,Middle East,6125.109345577681,0,Low Spend
+76,26-35,Affluent,Asia,1744.3581537511523,1,Mid Spend
+77,50+,High,Asia,1168.8177391706968,1,Mid Spend
+78,50+,High,North America,4037.114224050089,2,High Spend
+79,36-50,High,North America,1785.1093025818625,1,Mid Spend
+80,50+,Upper Middle,Asia,4392.449999062124,2,High Spend
+81,36-50,High,Middle East,3446.4306458728593,2,High Spend
+82,50+,Affluent,North America,800.0,1,Mid Spend
+83,18-25,Upper Middle,Europe,6404.511442926136,0,Low Spend
+84,50+,Upper Middle,Middle East,6950.930880810148,0,Low Spend
+85,36-50,Upper Middle,North America,1651.8648809343508,1,Mid Spend
+86,36-50,Upper Middle,North America,2147.056568140835,1,Mid Spend
+87,26-35,Affluent,Europe,3628.9038595947914,2,High Spend
+88,18-25,Affluent,Europe,3735.8049379714553,2,High Spend
+89,50+,High,Asia,4448.797399880227,2,High Spend
+90,26-35,Upper Middle,Middle East,7422.449985285969,0,Low Spend
+91,50+,High,Middle East,2610.716099513091,2,High Spend
+92,50+,High,Asia,1243.7460620154018,1,Mid Spend
+93,26-35,Upper Middle,Middle East,800.0,1,Mid Spend
+94,26-35,High,Middle East,1391.953912127778,1,Mid Spend
+95,26-35,High,Middle East,2927.1206596776465,2,High Spend
+96,26-35,High,Middle East,6948.027299739133,0,Low Spend
+97,26-35,High,Middle East,1861.2551421204228,1,Mid Spend
+98,50+,Upper Middle,Europe,3492.3334936055767,2,High Spend
+99,26-35,High,Middle East,2963.8696286399454,2,High Spend
+100,18-25,High,Europe,5614.465201585785,0,Low Spend
+101,36-50,High,Middle East,8559.251336921967,0,Low Spend
+102,26-35,Affluent,Asia,1832.0886995752946,1,Mid Spend
+103,26-35,High,North America,1923.2332264599113,1,Mid Spend
+104,50+,Upper Middle,Europe,5297.153929551959,0,Low Spend
+105,26-35,Upper Middle,Middle East,4500.1612771778855,2,High Spend
+106,26-35,High,Asia,7062.756116619274,0,Low Spend
+107,26-35,Upper Middle,North America,4284.642007717121,2,High Spend
+108,50+,High,Europe,2209.557400268469,1,Mid Spend
+109,26-35,Affluent,North America,4299.44062752308,2,High Spend
+110,36-50,High,Asia,5439.147877282397,0,Low Spend
+111,50+,High,Europe,4805.060798634201,2,High Spend
+112,36-50,High,North America,4116.002868436055,2,High Spend
+113,50+,High,Middle East,5346.684317096138,0,Low Spend
+114,26-35,High,Europe,5572.4502989804805,0,Low Spend
+115,36-50,Affluent,North America,6040.74978028256,0,Low Spend
+116,50+,High,Asia,4427.161752697214,2,High Spend
+117,18-25,Affluent,Asia,2632.3402233029205,2,High Spend
+118,26-35,Affluent,Europe,3322.7701101533103,2,High Spend
+119,50+,Upper Middle,North America,5654.319726318385,0,Low Spend
+120,18-25,Upper Middle,Europe,1202.7415238280807,1,Mid Spend
+121,50+,Upper Middle,Europe,3811.0812795203824,2,High Spend
+122,18-25,Upper Middle,North America,2134.6546128798063,1,Mid Spend
+123,26-35,Upper Middle,North America,3063.2386104565985,2,High Spend
+124,36-50,High,Middle East,5812.594097736057,0,Low Spend
+125,18-25,Upper Middle,North America,3420.4179496437873,2,High Spend
+126,50+,High,Asia,3102.160405943527,2,High Spend
+127,26-35,Affluent,Europe,800.0,1,Mid Spend
+128,18-25,Upper Middle,Europe,4641.7578452598855,2,High Spend
+129,50+,Affluent,Asia,4420.065198510366,2,High Spend
+130,50+,Upper Middle,North America,7759.160391272012,0,Low Spend
+131,50+,Upper Middle,Asia,2322.887883103399,1,Mid Spend
+132,18-25,High,Asia,3482.1307208606654,2,High Spend
+133,18-25,High,Middle East,3548.6441041636617,2,High Spend
+134,18-25,Affluent,Asia,6470.397215479644,0,Low Spend
+135,36-50,Affluent,Europe,2790.3498287487055,2,High Spend
+136,18-25,Affluent,Asia,3613.8473566947464,2,High Spend
+137,18-25,Upper Middle,Europe,4337.372321376386,2,High Spend
+138,18-25,Upper Middle,Europe,3410.5400709439878,2,High Spend
+139,36-50,Affluent,Europe,2017.8460479888379,1,Mid Spend
+140,18-25,Affluent,North America,3426.9979843762767,2,High Spend
+141,50+,Affluent,Middle East,5361.989849691498,0,Low Spend
+142,18-25,High,Europe,800.0,1,Mid Spend
+143,50+,High,Europe,3292.533283123127,2,High Spend
+144,50+,Affluent,North America,1459.734207133819,1,Mid Spend
+145,50+,High,Europe,5629.1025836346535,0,Low Spend
+146,36-50,Affluent,Asia,800.0,1,Mid Spend
+147,36-50,Affluent,Asia,1770.3719360025057,1,Mid Spend
+148,36-50,High,Middle East,3829.8661251419458,2,High Spend
+149,18-25,Affluent,Europe,6444.152864315549,0,Low Spend
+150,50+,Affluent,North America,2855.349425639427,2,High Spend
+151,36-50,Upper Middle,Asia,1778.5610412749638,1,Mid Spend
+152,36-50,Affluent,North America,7138.5455527692975,0,Low Spend
+153,18-25,High,North America,800.0,1,Mid Spend
+154,36-50,Affluent,Asia,800.0,1,Mid Spend
+155,18-25,High,North America,3968.031790117331,2,High Spend
+156,26-35,Affluent,Asia,1895.4807064242555,1,Mid Spend
+157,36-50,High,North America,800.0,1,Mid Spend
+158,26-35,Upper Middle,Asia,4558.384184058577,2,High Spend
+159,18-25,Affluent,Europe,3536.3615702966376,2,High Spend
+160,50+,Upper Middle,Middle East,1759.0270123791977,1,Mid Spend
+161,36-50,High,Asia,800.0,1,Mid Spend
+162,18-25,Affluent,Asia,4919.406122216318,0,Low Spend
+163,50+,Affluent,Middle East,4430.442591509054,2,High Spend
+164,50+,High,Asia,2781.8130996853574,2,High Spend
+165,26-35,High,Asia,7062.601391304865,0,Low Spend
+166,18-25,High,North America,800.0,1,Mid Spend
+167,50+,Upper Middle,Middle East,800.0,1,Mid Spend
+168,36-50,High,Europe,1477.8022462612623,1,Mid Spend
+169,36-50,High,Asia,2899.7107640179047,2,High Spend
+170,26-35,Affluent,Middle East,3535.346788509922,2,High Spend
+171,50+,Affluent,North America,2469.280672716074,1,Mid Spend
+172,18-25,Affluent,Europe,3774.521872331453,2,High Spend
+173,36-50,Upper Middle,Middle East,800.0,1,Mid Spend
+174,50+,High,Europe,6176.282128961171,0,Low Spend
+175,50+,Upper Middle,Europe,2819.2674075363484,2,High Spend
+176,26-35,High,Europe,5458.050829493881,0,Low Spend
+177,36-50,High,Asia,3753.995762030949,2,High Spend
+178,36-50,Affluent,Asia,4004.8570821383246,2,High Spend
+179,18-25,High,North America,4253.488016510848,2,High Spend
+180,36-50,Upper Middle,North America,3984.9588320380926,2,High Spend
+181,18-25,Upper Middle,Middle East,4413.990071708597,2,High Spend
+182,36-50,Affluent,North America,5924.135566291349,0,Low Spend
+183,26-35,High,Europe,3432.3465733432345,2,High Spend
+184,36-50,Upper Middle,Europe,4559.808266694727,2,High Spend
+185,18-25,Upper Middle,Asia,2802.581472568101,2,High Spend
+186,18-25,Affluent,Europe,6168.25787398884,0,Low Spend
+187,26-35,Upper Middle,Middle East,1511.9369354696066,1,Mid Spend
+188,36-50,Affluent,Europe,6962.068952403794,0,Low Spend
+189,36-50,Affluent,Europe,2911.6525085824446,2,High Spend
+190,26-35,Upper Middle,Middle East,800.0,1,Mid Spend
+191,36-50,Upper Middle,North America,3281.8297128037366,2,High Spend
+192,36-50,Affluent,North America,1501.6863535552623,1,Mid Spend
+193,18-25,High,Middle East,4849.415807775194,2,High Spend
+194,36-50,High,Asia,1564.2272455347395,1,Mid Spend
+195,36-50,Affluent,Europe,2018.3964469274847,1,Mid Spend
+196,26-35,Affluent,Middle East,800.0,1,Mid Spend
+197,26-35,Affluent,Europe,2004.9260976520313,1,Mid Spend
+198,50+,Affluent,Asia,800.0,1,Mid Spend
+199,18-25,High,Europe,800.0,1,Mid Spend
+200,36-50,Upper Middle,Middle East,4672.912243517454,2,High Spend
+201,36-50,Affluent,Europe,4728.760349031831,2,High Spend
+202,50+,High,North America,3936.0066359269226,2,High Spend
+203,36-50,High,Asia,872.6524851157315,1,Mid Spend
+204,18-25,Affluent,Asia,2895.0350164876445,2,High Spend
+205,50+,Upper Middle,Asia,2992.0744140007496,2,High Spend
+206,18-25,High,Middle East,800.0,1,Mid Spend
+207,50+,Upper Middle,Asia,6307.476263887731,0,Low Spend
+208,50+,High,North America,4930.197039266477,0,Low Spend
+209,26-35,Upper Middle,Middle East,2513.8788175747395,1,Mid Spend
+210,18-25,Upper Middle,North America,3059.1488457879677,2,High Spend
+211,36-50,Upper Middle,Europe,3458.4421774846155,2,High Spend
+212,36-50,High,Europe,800.0,1,Mid Spend
+213,18-25,Affluent,Europe,2456.209758454687,1,Mid Spend
+214,36-50,High,Europe,1499.634654404843,1,Mid Spend
+215,36-50,Affluent,North America,800.0,1,Mid Spend
+216,18-25,High,Middle East,2381.5793556508993,1,Mid Spend
+217,50+,Upper Middle,Middle East,6954.910359068949,0,Low Spend
+218,18-25,Affluent,Asia,4409.854294787422,2,High Spend
+219,50+,Upper Middle,North America,1743.406222477847,1,Mid Spend
+220,36-50,Affluent,Europe,4259.682118983549,2,High Spend
+221,36-50,Upper Middle,North America,6078.581960489205,0,Low Spend
+222,36-50,Affluent,Asia,5034.194102408092,0,Low Spend
+223,26-35,Upper Middle,Asia,3131.186813824383,2,High Spend
+224,50+,Affluent,North America,1576.7390890477375,1,Mid Spend
+225,26-35,High,North America,4536.091289949898,2,High Spend
+226,26-35,Affluent,North America,3865.6678479278494,2,High Spend
+227,18-25,Upper Middle,Middle East,4969.425084061011,0,Low Spend
+228,26-35,High,Europe,4397.377963700333,2,High Spend
+229,18-25,Affluent,North America,5309.015973702537,0,Low Spend
+230,18-25,High,North America,1822.4825345667505,1,Mid Spend
+231,26-35,High,North America,5898.2669443955165,0,Low Spend
+232,50+,High,Asia,3434.7191303232794,2,High Spend
+233,50+,High,Asia,7565.573919775584,0,Low Spend
+234,50+,High,Middle East,1483.7868002029506,1,Mid Spend
+235,50+,High,Europe,6819.120366963549,0,Low Spend
+236,50+,Affluent,Middle East,3435.403723617825,2,High Spend
+237,26-35,Upper Middle,Europe,1566.8803920482137,1,Mid Spend
+238,26-35,Upper Middle,Asia,1935.4511650804925,1,Mid Spend
+239,36-50,Affluent,Asia,2295.235921972496,1,Mid Spend
+240,50+,Affluent,Asia,3933.165082084216,2,High Spend
+241,26-35,High,Middle East,4150.238073678099,2,High Spend
+242,36-50,High,North America,1737.859991335126,1,Mid Spend
+243,50+,Upper Middle,North America,2946.4198970258376,2,High Spend
+244,18-25,Upper Middle,Asia,7712.9947889461,0,Low Spend
+245,36-50,High,North America,6800.594974221565,0,Low Spend
+246,26-35,High,North America,3959.9120732828706,2,High Spend
+247,18-25,High,Middle East,3083.6076519700405,2,High Spend
+248,18-25,Upper Middle,Europe,3264.068918780175,2,High Spend
+249,18-25,Affluent,Asia,4349.739540006916,2,High Spend
+250,36-50,Affluent,Asia,800.0,1,Mid Spend
+251,26-35,High,Middle East,2433.771617668641,1,Mid Spend
+252,18-25,High,Middle East,800.0,1,Mid Spend
+253,50+,High,North America,3878.2908697316143,2,High Spend
+254,18-25,Affluent,Asia,4423.83106734603,2,High Spend
+255,18-25,High,Europe,1936.9897829413774,1,Mid Spend
+256,36-50,Upper Middle,Middle East,6462.770879238072,0,Low Spend
+257,36-50,Affluent,Europe,800.0,1,Mid Spend
+258,26-35,Affluent,Europe,800.0,1,Mid Spend
+259,50+,Affluent,Asia,3493.7940008319383,2,High Spend
+260,36-50,Affluent,Asia,5303.61626574674,0,Low Spend
+261,18-25,High,Middle East,6704.640921207311,0,Low Spend
+262,26-35,High,Asia,1990.454621688332,1,Mid Spend
+263,18-25,Affluent,Asia,5373.097833548851,0,Low Spend
+264,18-25,Affluent,Asia,2915.281367098444,2,High Spend
+265,36-50,Upper Middle,Europe,2620.219940130197,2,High Spend
+266,26-35,Upper Middle,Middle East,4944.051862470679,0,Low Spend
+267,50+,High,North America,4435.110332509523,2,High Spend
+268,50+,Affluent,Europe,800.0,1,Mid Spend
+269,36-50,Affluent,Asia,6248.388769396971,0,Low Spend
+270,36-50,Upper Middle,Europe,6036.200979124394,0,Low Spend
+271,26-35,High,Asia,1623.7620566790354,1,Mid Spend
+272,50+,High,Asia,3870.7677735622997,2,High Spend
+273,50+,Affluent,Europe,4086.8664098220256,2,High Spend
+274,50+,Affluent,Middle East,3573.4822848125955,2,High Spend
+275,18-25,Affluent,Asia,1789.3286615400757,1,Mid Spend
+276,50+,High,Middle East,1522.4285905362865,1,Mid Spend
+277,18-25,High,North America,2943.7810438188203,2,High Spend
+278,26-35,Upper Middle,Asia,5580.003842370602,0,Low Spend
+279,18-25,Upper Middle,Middle East,4195.920340107751,2,High Spend
+280,26-35,Affluent,Middle East,2184.648469410567,1,Mid Spend
+281,50+,Affluent,North America,4697.737163426358,2,High Spend
+282,50+,Affluent,Middle East,800.0,1,Mid Spend
+283,26-35,Affluent,Middle East,5527.284540818628,0,Low Spend
+284,36-50,High,North America,800.0,1,Mid Spend
+285,26-35,Affluent,Asia,2202.6299289131093,1,Mid Spend
+286,36-50,Affluent,Middle East,800.0,1,Mid Spend
+287,18-25,Affluent,Middle East,800.0,1,Mid Spend
+288,18-25,Upper Middle,Middle East,5553.818932232743,0,Low Spend
+289,18-25,High,Europe,1971.057357113839,1,Mid Spend
+290,50+,Upper Middle,North America,3762.3085398075746,2,High Spend
+291,18-25,Affluent,Europe,2896.774726465795,2,High Spend
+292,36-50,High,North America,4049.4898198908672,2,High Spend
+293,18-25,Upper Middle,Asia,3169.0081603325616,2,High Spend
+294,26-35,High,Asia,800.0,1,Mid Spend
+295,26-35,High,Middle East,5191.787002783708,0,Low Spend
+296,50+,High,North America,1913.7355170451126,1,Mid Spend
+297,26-35,Upper Middle,Asia,800.0,1,Mid Spend
+298,36-50,High,North America,2058.1466458749924,1,Mid Spend
+299,18-25,High,Asia,6301.671539395484,0,Low Spend
+300,50+,Affluent,Europe,4870.487832649685,2,High Spend
+301,18-25,High,Asia,2232.9653043027097,1,Mid Spend
+302,18-25,Affluent,Europe,2231.6330504994567,1,Mid Spend
+303,36-50,High,Asia,2292.402887321758,1,Mid Spend
+304,26-35,High,Middle East,7568.84556383385,0,Low Spend
+305,26-35,Affluent,Europe,3840.2579949094174,2,High Spend
+306,18-25,High,Asia,3946.091623820353,2,High Spend
+307,50+,Upper Middle,Middle East,5266.623598870053,0,Low Spend
+308,26-35,Upper Middle,Europe,3525.33614985833,2,High Spend
+309,50+,Affluent,Middle East,2430.107279194453,1,Mid Spend
+310,26-35,High,North America,2568.030332013048,2,High Spend
+311,50+,Affluent,North America,2842.4772292890593,2,High Spend
+312,36-50,Upper Middle,Europe,2918.1110796783487,2,High Spend
+313,50+,Upper Middle,Asia,4600.7849960013555,2,High Spend
+314,36-50,Upper Middle,Europe,3114.2809487760587,2,High Spend
+315,36-50,High,Middle East,4611.808169874274,2,High Spend
+316,50+,High,Asia,2822.4235237611188,2,High Spend
+317,36-50,High,North America,3172.997418695399,2,High Spend
+318,18-25,High,Asia,800.0,1,Mid Spend
+319,36-50,Affluent,North America,5015.920884345459,0,Low Spend
+320,26-35,High,Asia,3762.274646975584,2,High Spend
+321,50+,High,Asia,5195.622241691235,0,Low Spend
+322,18-25,Affluent,Asia,800.0,1,Mid Spend
+323,50+,High,Middle East,7594.424350517601,0,Low Spend
+324,26-35,High,Middle East,2692.902818058618,2,High Spend
+325,26-35,Affluent,Europe,5438.0021968225365,0,Low Spend
+326,26-35,Affluent,Europe,800.0,1,Mid Spend
+327,36-50,Upper Middle,North America,4348.102591137654,2,High Spend
+328,36-50,Affluent,Middle East,800.0,1,Mid Spend
+329,50+,High,North America,1627.7082864692288,1,Mid Spend
+330,50+,Upper Middle,Europe,7210.868978506929,0,Low Spend
+331,18-25,High,North America,2580.4987183206376,2,High Spend
+332,18-25,Affluent,Europe,3478.3523209953905,2,High Spend
+333,50+,High,Middle East,4914.149007515259,2,High Spend
+334,36-50,High,Asia,4090.50015353973,2,High Spend
+335,26-35,High,Middle East,3330.9215913158678,2,High Spend
+336,50+,Upper Middle,North America,3802.9142054256954,2,High Spend
+337,18-25,Upper Middle,North America,8287.514287524205,0,Low Spend
+338,36-50,Upper Middle,Middle East,2873.238646526112,2,High Spend
+339,50+,Upper Middle,Middle East,3442.4179027729283,2,High Spend
+340,50+,Upper Middle,Europe,5311.439671216746,0,Low Spend
+341,36-50,Upper Middle,North America,5432.157052507565,0,Low Spend
+342,50+,High,North America,5611.466672232837,0,Low Spend
+343,36-50,Upper Middle,Middle East,4405.206488464206,2,High Spend
+344,26-35,High,Asia,800.0,1,Mid Spend
+345,36-50,Affluent,North America,6593.549371062411,0,Low Spend
+346,36-50,High,Asia,800.0,1,Mid Spend
+347,36-50,High,Middle East,3665.7980235258733,2,High Spend
+348,50+,Upper Middle,Middle East,1340.5931299574127,1,Mid Spend
+349,50+,Upper Middle,Europe,2858.8956374954164,2,High Spend
+350,36-50,Upper Middle,North America,3723.2773026676578,2,High Spend
+351,50+,Upper Middle,Asia,3706.985873990601,2,High Spend
+352,18-25,Upper Middle,Europe,3928.2256593176267,2,High Spend
+353,18-25,Upper Middle,North America,6550.1647919290235,0,Low Spend
+354,50+,Upper Middle,Europe,3997.7754633307554,2,High Spend
+355,50+,Upper Middle,Middle East,2462.8554023605725,1,Mid Spend
+356,36-50,High,North America,5120.991770234386,0,Low Spend
+357,26-35,Upper Middle,Europe,5616.83507563421,0,Low Spend
+358,50+,High,Europe,800.0,1,Mid Spend
+359,18-25,High,Asia,4314.280153669688,2,High Spend
+360,36-50,High,Europe,4542.580033083977,2,High Spend
+361,50+,Upper Middle,North America,2345.3602926080175,1,Mid Spend
+362,18-25,Affluent,North America,6026.554989285563,0,Low Spend
+363,18-25,High,Asia,2669.87770852844,2,High Spend
+364,26-35,Upper Middle,North America,3276.2681976373938,2,High Spend
+365,36-50,Affluent,Middle East,2619.241986575487,2,High Spend
+366,36-50,Affluent,North America,3034.2739046792285,2,High Spend
+367,26-35,Upper Middle,North America,800.0,1,Mid Spend
+368,26-35,Upper Middle,Europe,800.0,1,Mid Spend
+369,36-50,Affluent,Europe,6507.911139094939,0,Low Spend
+370,36-50,Affluent,North America,1136.6850336996788,1,Mid Spend
+371,50+,Upper Middle,Asia,818.9368311961242,1,Mid Spend
+372,50+,Upper Middle,Europe,800.0,1,Mid Spend
+373,26-35,High,Asia,1594.284155083095,1,Mid Spend
+374,50+,High,North America,800.0,1,Mid Spend
+375,18-25,High,North America,6612.433352300012,0,Low Spend
+376,50+,High,Middle East,5221.5975965537955,0,Low Spend
+377,50+,High,Europe,1486.0692406090077,1,Mid Spend
+378,18-25,Affluent,North America,7955.358771757479,0,Low Spend
+379,26-35,Upper Middle,Middle East,5159.884071381507,0,Low Spend
+380,18-25,Upper Middle,Europe,2285.3709562810304,1,Mid Spend
+381,50+,Affluent,North America,800.0,1,Mid Spend
+382,26-35,Affluent,North America,8040.073659699631,0,Low Spend
+383,50+,High,Europe,800.0,1,Mid Spend
+384,18-25,High,Europe,800.0,1,Mid Spend
+385,18-25,Upper Middle,Europe,5249.654950421209,0,Low Spend
+386,50+,High,North America,8367.455293946401,0,Low Spend
+387,36-50,High,North America,6045.40020072314,0,Low Spend
+388,36-50,Upper Middle,Middle East,4240.600064115191,2,High Spend
+389,18-25,Upper Middle,Asia,4308.459551663629,2,High Spend
+390,18-25,High,Europe,4877.514229316677,2,High Spend
+391,36-50,Upper Middle,North America,4669.642897530884,2,High Spend
+392,36-50,High,North America,3618.621132732627,2,High Spend
+393,50+,Upper Middle,Europe,3229.2424286941273,2,High Spend
+394,50+,High,Asia,2862.2951186210507,2,High Spend
+395,36-50,Upper Middle,Europe,1341.2779044933122,1,Mid Spend
+396,50+,Affluent,Asia,2382.514830893097,1,Mid Spend
+397,50+,High,North America,800.0,1,Mid Spend
+398,26-35,High,Asia,2783.6528210515503,2,High Spend
+399,50+,Affluent,Middle East,825.0995642679813,1,Mid Spend
+400,18-25,High,North America,800.0,1,Mid Spend
+401,50+,Upper Middle,Middle East,3395.7671325376527,2,High Spend
+402,50+,High,Europe,6062.405029958119,0,Low Spend
+403,36-50,High,Europe,5020.296533205089,0,Low Spend
+404,18-25,Affluent,Europe,800.0,1,Mid Spend
+405,50+,High,Asia,822.8180995452574,1,Mid Spend
+406,50+,Upper Middle,North America,5069.696613574075,0,Low Spend
+407,26-35,Upper Middle,Europe,838.5277342157189,1,Mid Spend
+408,50+,High,Europe,2505.807070006546,1,Mid Spend
+409,50+,High,North America,4210.114617854014,2,High Spend
+410,26-35,High,Europe,869.6421993000024,1,Mid Spend
+411,36-50,High,Middle East,3231.826113521112,2,High Spend
+412,50+,Affluent,North America,800.0,1,Mid Spend
+413,26-35,High,North America,1676.9911833073297,1,Mid Spend
+414,18-25,Upper Middle,North America,3703.5202551135812,2,High Spend
+415,36-50,Upper Middle,Middle East,800.0,1,Mid Spend
+416,18-25,Upper Middle,North America,3969.044423512878,2,High Spend
+417,18-25,Upper Middle,Middle East,2956.7968423613015,2,High Spend
+418,26-35,Upper Middle,North America,4215.477899717725,2,High Spend
+419,50+,Upper Middle,Asia,3492.611094942255,2,High Spend
+420,26-35,Upper Middle,Europe,6001.1089459424575,0,Low Spend
+421,26-35,Upper Middle,Asia,3275.493905825396,2,High Spend
+422,26-35,Affluent,Europe,2055.3078095244437,1,Mid Spend
+423,26-35,Upper Middle,Middle East,3269.0545066710247,2,High Spend
+424,36-50,High,Asia,4195.255663880054,2,High Spend
+425,50+,High,North America,3107.4921547165495,2,High Spend
+426,18-25,Affluent,Europe,3089.301720648541,2,High Spend
+427,18-25,Upper Middle,Europe,1455.6182868251378,1,Mid Spend
+428,50+,High,Asia,1541.6179813879135,1,Mid Spend
+429,18-25,Affluent,Middle East,800.0,1,Mid Spend
+430,50+,Affluent,Asia,6849.068835011267,0,Low Spend
+431,18-25,Affluent,Middle East,800.0,1,Mid Spend
+432,26-35,Upper Middle,Middle East,1475.6085648490039,1,Mid Spend
+433,18-25,Upper Middle,Europe,1419.5040157477656,1,Mid Spend
+434,50+,High,Asia,4968.83362927777,0,Low Spend
+435,50+,Affluent,Asia,2351.110707757539,1,Mid Spend
+436,50+,High,Middle East,5745.032559882215,0,Low Spend
+437,50+,High,Asia,1518.3206266634893,1,Mid Spend
+438,50+,Upper Middle,North America,3613.7871568923642,2,High Spend
+439,36-50,Affluent,North America,1162.2364828285338,1,Mid Spend
+440,36-50,Upper Middle,Asia,7719.328081101454,0,Low Spend
+441,18-25,High,Asia,800.0,1,Mid Spend
+442,50+,High,Middle East,3681.6055624994606,2,High Spend
+443,18-25,High,North America,4394.309138050617,2,High Spend
+444,50+,Upper Middle,North America,3910.358014393296,2,High Spend
+445,50+,Upper Middle,Europe,2592.367150469042,2,High Spend
+446,36-50,High,Middle East,2714.3944605864626,2,High Spend
+447,36-50,Upper Middle,Europe,3096.385238354041,2,High Spend
+448,26-35,High,North America,2676.595596417325,2,High Spend
+449,36-50,Upper Middle,Middle East,5120.534056948802,0,Low Spend
+450,26-35,High,Asia,7863.1506035009725,0,Low Spend
+451,26-35,High,Middle East,1773.518072982766,1,Mid Spend
+452,26-35,Upper Middle,Asia,800.0,1,Mid Spend
+453,26-35,High,Asia,2805.7794936272394,2,High Spend
+454,26-35,Upper Middle,Middle East,8675.3605428395,0,Low Spend
+455,18-25,Upper Middle,Asia,1231.9159504665922,1,Mid Spend
+456,36-50,Affluent,Europe,6606.056971976948,0,Low Spend
+457,26-35,High,North America,6690.94179096817,0,Low Spend
+458,50+,Affluent,Asia,1782.1058682424118,1,Mid Spend
+459,36-50,Upper Middle,Europe,4251.762774207606,2,High Spend
+460,36-50,High,Asia,6582.472570882784,0,Low Spend
+461,26-35,Affluent,North America,2165.9189698275286,1,Mid Spend
+462,18-25,High,Europe,2552.123207774804,2,High Spend
+463,26-35,High,North America,1720.3019893129838,1,Mid Spend
+464,18-25,High,North America,800.0,1,Mid Spend
+465,50+,High,Europe,1571.5894008547843,1,Mid Spend
+466,36-50,Affluent,Europe,800.0,1,Mid Spend
+467,50+,Affluent,Europe,3074.983630170297,2,High Spend
+468,18-25,Affluent,Middle East,1306.0588916709887,1,Mid Spend
+469,18-25,Upper Middle,Europe,3514.329005939645,2,High Spend
+470,50+,Affluent,Europe,800.0,1,Mid Spend
+471,18-25,Affluent,Europe,3727.9365108718057,2,High Spend
+472,50+,Upper Middle,Europe,4833.763715539634,2,High Spend
+473,36-50,Upper Middle,Asia,800.0,1,Mid Spend
+474,50+,Affluent,Middle East,3822.924453664659,2,High Spend
+475,36-50,High,North America,5700.871783441243,0,Low Spend
+476,50+,Affluent,Europe,800.0,1,Mid Spend
+477,18-25,Upper Middle,Asia,6679.659251042947,0,Low Spend
+478,50+,Affluent,Asia,3921.8418206052993,2,High Spend
+479,18-25,Upper Middle,Asia,1448.9739173315006,1,Mid Spend
+480,50+,Upper Middle,North America,2877.308029153047,2,High Spend
+481,50+,Upper Middle,Europe,4228.319207547789,2,High Spend
+482,26-35,Affluent,Middle East,3167.211861107305,2,High Spend
+483,18-25,High,Middle East,4185.263183382012,2,High Spend
+484,26-35,High,Asia,974.5180952253943,1,Mid Spend
+485,18-25,High,North America,3372.5938128793714,2,High Spend
+486,26-35,Affluent,North America,800.0,1,Mid Spend
+487,36-50,High,North America,2755.3026650328593,2,High Spend
+488,50+,Affluent,Middle East,1011.4031887774626,1,Mid Spend
+489,18-25,High,Asia,1381.8341263025136,1,Mid Spend
+490,18-25,High,Europe,5719.404985462962,0,Low Spend
+491,50+,High,Middle East,5400.882265307392,0,Low Spend
+492,18-25,High,Asia,4340.103865995789,2,High Spend
+493,18-25,Affluent,Asia,800.0,1,Mid Spend
+494,26-35,High,Europe,2303.9014106714358,1,Mid Spend
+495,18-25,Upper Middle,Europe,5668.8149399542035,0,Low Spend
+496,36-50,Affluent,Europe,3311.7772100077905,2,High Spend
+497,36-50,High,North America,8102.524987959728,0,Low Spend
+498,50+,High,Europe,3865.2992466676183,2,High Spend
+499,18-25,Affluent,Asia,3422.5080562780695,2,High Spend
+500,50+,High,Europe,2319.943778754497,1,Mid Spend
